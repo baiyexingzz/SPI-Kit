@@ -1,0 +1,15 @@
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\src\uart.c
+.\keil_output\uart.o: .\Config\Product_cfg.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\system.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\platform.h
+.\keil_output\uart.o: G:\Profession\keil474\ARM\ARMCC\bin\..\include\stdint.h
+.\keil_output\uart.o: G:\Profession\keil474\ARM\ARMCC\bin\..\include\stdbool.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\config\platform_cfg.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\cmsis.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\core_cm3.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\core_cmInstr.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\core_cmFunc.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\platform_lpc15xx.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\config\system_cfg.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\include\uart.h
+.\keil_output\uart.o: ..\..\..\package_Lpc15xx\config\uart_cfg.h
